@@ -263,6 +263,7 @@ body {
 .c-sidebar__icon-link-container > svg {
     aspect-ratio: 1 / 1;
     flex-shrink: 1;
+    max-width: 35px;
 }
 
 .c-sidebar__other-links-grid {
